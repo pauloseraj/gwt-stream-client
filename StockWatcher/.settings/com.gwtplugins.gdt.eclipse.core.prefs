@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=com.google.gwt.sample.stockwatcher.StockWatcher
+gwtMavenModuleShortName=StockWatcher
+lastWarOutDir=/home/paulose/sts/ws/StockWatcher/target/StockWatcher-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
